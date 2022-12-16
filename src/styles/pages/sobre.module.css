@@ -1,37 +1,38 @@
 .sobreContainer {
   align-items: center;
   margin: 2rem 0;
-  
+
 }
 
 .img {
   border-radius: 60px;
-  width: 8%;  
+  width: 8%;
   float: left;
   margin: 10px;
   border: solid;
   border-color: #65647c;
- }
+}
 
 .title {
-    font-size: 40px;
+  font-size: 40px;
   line-height: 50px;
   color: #65647c;
   text-align: center;
-  
-  
-  }
+
+
+}
 
 .text {
   font-size: 20px;
   text-align: center;
   line-height: 30px;
   color: #65647c;
-  
+  flex-grow: 1;
+
 }
 
 @media(max-width: 765px) {
   .homeContainer {
     flex-direction: column;
   }
-  }
+}
