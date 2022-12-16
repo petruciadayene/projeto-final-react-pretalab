@@ -83,11 +83,11 @@ Siga os passos e inclua as informações abaixo:
 
 <br />
 <br />
----
+
 
 _Foi incrível compartilhar essa jornada com você! Qualquer dúvida ou sugestão, chama no contatinho!_
 
 
 
 <br>
-Feito por Petrucia Dayene 
+Feito por Petrucia Dayene ♡
